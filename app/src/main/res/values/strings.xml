@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gousto Test</string>
+    <string name="blank" />
+    <string name="listPrice">£%s</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+</resources>
